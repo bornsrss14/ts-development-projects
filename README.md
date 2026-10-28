@@ -1,4 +1,5 @@
-# ts-development-prtypescript-learning-projectsojects
+# tts-development-projects
+
 A collection of Typescript excersises, projects and practical examples focuses on learning and improving software development skills.
 
 About this repository:
